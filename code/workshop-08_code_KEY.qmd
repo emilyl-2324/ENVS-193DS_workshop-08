@@ -292,6 +292,7 @@ plot(model4) # residuals look ok for best model
 plot(model5)
 plot(model6)
 plot(model7)
+#all residuals look normal 
 ```
 
 ## Model selection
