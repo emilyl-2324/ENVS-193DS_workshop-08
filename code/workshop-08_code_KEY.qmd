@@ -215,7 +215,7 @@ ggplot(data = drought_exp_clean,
   # labelling axes and title
   labs(x = "Species",
        y = "Total mass (g)",
-       title = "Species differ in mean mass") +
+       title = "Species differ in mean mass (g)") +
   # getting rid of legend
   theme(legend.position = "none")
 ```
